@@ -1,2 +1,2 @@
-./node_modules
-./notes.json
+node_modules/
+notes.json
