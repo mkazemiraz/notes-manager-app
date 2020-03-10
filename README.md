@@ -1,5 +1,4 @@
 # Welcome to notes-app 👋
-[![Version](https://img.shields.io/npm/v/notes-app.svg)](https://www.npmjs.com/package/notes-app)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 [![Twitter: mkazemiraz](https://img.shields.io/twitter/follow/mkazemiraz.svg?style=social)](https://twitter.com/mkazemiraz)
 
